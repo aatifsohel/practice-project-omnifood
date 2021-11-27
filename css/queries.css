@@ -1,0 +1,9 @@
+/*******************************/
+/* Below 1344px (Smaller Desktop) */
+/*******************************/
+
+@media (max-width: 84em) {
+  .hero {
+    max-width: 120rem;
+  }
+}
